@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+.pytest_cache/
+
+# Django
+db.sqlite3
+*.log
+.env
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# macOS
+.DS_Store
+._*
+
+# IDE
+.vscode/
+.idea/
